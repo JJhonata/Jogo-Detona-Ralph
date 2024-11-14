@@ -1,5 +1,7 @@
 # 🎮 Bem-vindo ao Jogo Detona Ralph!
 
+![detona ralph](https://github.com/user-attachments/assets/d75f3eac-261d-4747-8710-a60aec6b43d1)
+
 🚀 **Neste repositório, você encontrará um jogo empolgante inspirado no famoso filme "Detona Ralph"!** Além de oferecer muita diversão, este projeto demonstra várias técnicas avançadas de desenvolvimento de jogos usando JavaScript.
 
 ---
